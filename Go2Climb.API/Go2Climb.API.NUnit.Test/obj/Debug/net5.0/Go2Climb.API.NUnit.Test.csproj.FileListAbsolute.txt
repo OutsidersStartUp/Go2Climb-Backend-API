@@ -1,0 +1,289 @@
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.csprojAssemblyReference.cache
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.AssemblyInfoInputs.cache
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.AssemblyInfo.cs
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.csproj.CoreCompileInputs.cache
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.deps.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.runtimeconfig.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.runtimeconfig.dev.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\appsettings.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.exe
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.deps.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.runtimeconfig.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.runtimeconfig.dev.json
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ref\Go2Climb.API.NUnit.Test.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.pdb
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\BCrypt.Net-Next.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\FluentAssertions.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\testhost.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Moq.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.pdb
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.csproj.CopyComplete
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\ref\Go2Climb.API.NUnit.Test.dll
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.pdb
+C:\Users\SALOME\Documents\GitHub\Back-end\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.genruntimeconfig.cache
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\nunit.engine.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\nunit.engine.api.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.deps.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.runtimeconfig.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.runtimeconfig.dev.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.StaticWebAssets.xml
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\appsettings.Development.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\appsettings.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.exe
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.deps.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.runtimeconfig.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.runtimeconfig.dev.json
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.NUnit.Test.pdb
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\AutoMapper.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\BCrypt.Net-Next.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Castle.Core.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\FluentAssertions.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Google.Protobuf.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\testhost.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Moq.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\MySql.Data.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ZstdNet.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\nunit.framework.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\bin\Debug\net5.0\Go2Climb.API.pdb
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.csproj.AssemblyReference.cache
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.AssemblyInfoInputs.cache
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.AssemblyInfo.cs
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.csproj.CoreCompileInputs.cache
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.csproj.CopyComplete
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\refint\Go2Climb.API.NUnit.Test.dll
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.pdb
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\Go2Climb.API.NUnit.Test.genruntimeconfig.cache
+D:\UPC\CICLO 6\6. EVOLUCIÓN DE SOFTWARE\TRABAJO\CODIGO\backend_aplication\Go2Climb.API\Go2Climb.API.NUnit.Test\obj\Debug\net5.0\ref\Go2Climb.API.NUnit.Test.dll

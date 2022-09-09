@@ -1,0 +1,25 @@
+name: .NET
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: 5.0.x
+    - name: Restore dependencies
+      run: dotnet restore ./Go2Climb.API/
+    - name: Build
+      run: dotnet build --no-restore ./Go2Climb.API/Go2Climb.API
+    - name: Test
+      run: dotnet test --no-build --verbosity normal ./Go2Climb.API/GoClimb.API.XUnit.test

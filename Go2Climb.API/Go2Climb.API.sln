@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go2Climb.API", "Go2Climb.API\Go2Climb.API.csproj", "{28E81892-9ADB-44CB-8B96-D913FDFEB90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go2Climb.API.Tests", "Go2Climb.API.Tests\Go2Climb.API.Tests.csproj", "{AD56B025-DF1D-47ED-B2C4-AC5356A60FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Go2Climb.API.NUnit.Test", "Go2Climb.API.NUnit.Test\Go2Climb.API.NUnit.Test.csproj", "{4F2AC780-DFCB-4858-A036-B3857A2B3CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoClimb.API.XUnit.test", "GoClimb.API.XUnit.test\GoClimb.API.XUnit.test.csproj", "{198F45FC-851D-4066-8811-9A9532098935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E81892-9ADB-44CB-8B96-D913FDFEB90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E81892-9ADB-44CB-8B96-D913FDFEB90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E81892-9ADB-44CB-8B96-D913FDFEB90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E81892-9ADB-44CB-8B96-D913FDFEB90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD56B025-DF1D-47ED-B2C4-AC5356A60FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD56B025-DF1D-47ED-B2C4-AC5356A60FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD56B025-DF1D-47ED-B2C4-AC5356A60FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD56B025-DF1D-47ED-B2C4-AC5356A60FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F2AC780-DFCB-4858-A036-B3857A2B3CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2AC780-DFCB-4858-A036-B3857A2B3CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2AC780-DFCB-4858-A036-B3857A2B3CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2AC780-DFCB-4858-A036-B3857A2B3CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198F45FC-851D-4066-8811-9A9532098935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198F45FC-851D-4066-8811-9A9532098935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198F45FC-851D-4066-8811-9A9532098935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198F45FC-851D-4066-8811-9A9532098935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

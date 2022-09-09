@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43151c90-1fab-4fe3-843e-16b200edb190" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Debug/net5.0/Go2Climb.API.NUnit.Test.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Debug/net5.0/Go2Climb.API.NUnit.Test.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Debug/net5.0/Go2Climb.API.NUnit.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Debug/net5.0/Go2Climb.API.NUnit.Test.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Debug/net5.0/Go2Climb.API.NUnit.Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Debug/net5.0/Go2Climb.API.NUnit.Test.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Go2Climb.API.NUnit.Test.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Go2Climb.API.NUnit.Test.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Go2Climb.API.NUnit.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/Go2Climb.API.NUnit.Test.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.NUnit.Test/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/bin/Debug/net5.0/Go2Climb.API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/bin/Debug/net5.0/Go2Climb.API.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Debug/net5.0/Go2Climb.API.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Go2Climb.API.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Go2Climb.API.Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Go2Climb.API.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/Go2Climb.API.Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/Go2Climb.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Go2Climb.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Go2Climb.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Go2Climb.API.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/Go2Climb.API.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Go2Climb.API/Go2Climb.API/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="288C2Wkelk59twiySswDFm43RUi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43151c90-1fab-4fe3-843e-16b200edb190" name="Changes" comment="" />
+      <created>1650588626215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650588626215</updated>
+      <workItem from="1650588628288" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

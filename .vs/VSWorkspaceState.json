@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Go2Climb.API",
+    "\\Go2Climb.API\\Go2Climb.API",
+    "\\Go2Climb.API\\Go2Climb.API\\Security",
+    "\\Go2Climb.API\\Go2Climb.API\\Security\\Authorization",
+    "\\Go2Climb.API\\Go2Climb.API\\Security\\Authorization\\Attributes"
+  ],
+  "SelectedNode": "\\Go2Climb.API\\Go2Climb.API\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
