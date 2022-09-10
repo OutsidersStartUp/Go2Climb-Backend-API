@@ -1,4 +1,6 @@
 ﻿
+using Go2Climb.API.Services.Resources;
+
 namespace Go2Climb.API.Resources
 {
     public class ActivityResource

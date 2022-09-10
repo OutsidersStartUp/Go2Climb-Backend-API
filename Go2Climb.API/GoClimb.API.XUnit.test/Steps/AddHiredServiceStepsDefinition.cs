@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using Go2Climb.API;
 using Go2Climb.API.Domain.Services.Communication;
 using Go2Climb.API.Resources;
+using Go2Climb.API.Services.Resources;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Newtonsoft.Json;
 using SpecFlow.Internal.Json;
@@ -36,7 +37,7 @@ namespace GoClimb.API.XUnit.test.Steps
         [Given(@"the Endpoint https://localhost:(.*)/api/v(.*)/hiredservice is available")]
         public void GivenTheEndpointHttpsLocalhostApiVHiredServiceIsAvailable(int port, int version)
         {
-            BaseUri = new Uri($"https://localhost:{port}/api/v{version}/posts");
+            BaseUri = new Uri($"https://localhost:{port}/api/v{version}");
             Client = _factory.CreateClient(new WebApplicationFactoryClientOptions {BaseAddress = BaseUri});
         }
 
@@ -47,9 +48,9 @@ namespace GoClimb.API.XUnit.test.Steps
             var resource = existingServiceResource.CreateSet<SaveServiceResource>().First();
             var content = new StringContent(resource.ToJson(), Encoding.UTF8, MediaTypeNames.Application.Json);
             var serviceResponse = Client.PostAsync(serviceUri, content);
-            var interestResponseData = await serviceResponse.Result.Content.ReadAsStringAsync();
-            var existingInterest = JsonConvert.DeserializeObject<ServiceResource>(interestResponseData);
-            Service = existingInterest;
+            var serviceResponseData = await serviceResponse.Result.Content.ReadAsStringAsync();
+            var existingService = JsonConvert.DeserializeObject<ServiceResource>(serviceResponseData);
+            Service = existingService;
         }
         
         [Given(@"A Customer hired that service")]

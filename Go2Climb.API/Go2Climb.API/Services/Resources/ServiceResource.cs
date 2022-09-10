@@ -1,6 +1,6 @@
 ﻿using Go2Climb.API.Agencies.Resources;
 
-namespace Go2Climb.API.Resources
+namespace Go2Climb.API.Services.Resources
 {
     public class ServiceResource
     {
@@ -15,6 +15,5 @@ namespace Go2Climb.API.Resources
         public string Photos { get; set; }
         public string Description { get; set; }
         public bool IsOffer { get; set; }
-        public AgencyResource Agency { get; set; }
     }
 }

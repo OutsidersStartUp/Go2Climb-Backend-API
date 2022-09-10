@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj": {}
+    "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
+    "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
+        "projectUniqueName": "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
         "projectName": "Go2Climb.API",
-        "projectPath": "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
-        "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\Go2Climb.API\\obj\\",
+        "projectPath": "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\Go2Climb.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -99,20 +99,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.16, 5.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
+              "version": "[5.0.17, 5.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -123,21 +111,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Kevin\\.dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj": {
+    "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj",
+        "projectUniqueName": "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj",
         "projectName": "GoClimb.API.XUnit.test",
-        "projectPath": "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj",
-        "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\GoClimb.API.XUnit.test\\obj\\",
+        "projectPath": "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\GoClimb.API.XUnit.test\\GoClimb.API.XUnit.test.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\GoClimb.API.XUnit.test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -149,8 +137,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
-                "projectPath": "C:\\Users\\Kevin\\Documents\\GitHub\\Evolucion de software\\Go2Climb\\backend_aplication\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
+              "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj": {
+                "projectPath": "D:\\UPC\\2022_2\\APLICACIONES_PARA_DISPOSITIVOS_MOVILES_WS62\\TF\\Repositorios\\Backend\\Go2Climb.API\\Go2Climb.API\\Go2Climb.API.csproj"
               }
             }
           }
@@ -212,26 +200,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Kevin\\.dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

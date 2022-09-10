@@ -158,12 +158,12 @@ namespace GoClimb.API.XUnit.test.Features
     this.FeatureBackground();
 #line hidden
                 TechTalk.SpecFlow.Table table6 = new TechTalk.SpecFlow.Table(new string[] {
-                            "customerId",
-                            "serviceId",
-                            "amount",
-                            "price",
-                            "scheduledDate",
-                            "status"});
+                            "CustomerId",
+                            "ServiceId",
+                            "Amount",
+                            "Price",
+                            "ScheduledDate",
+                            "Status"});
                 table6.AddRow(new string[] {
                             "1",
                             "1",

@@ -5,6 +5,7 @@ using Go2Climb.API.Domain.Models;
 using Go2Climb.API.Domain.Services;
 using Go2Climb.API.Extensions;
 using Go2Climb.API.Resources;
+using Go2Climb.API.Services.Resources;
 using Microsoft.AspNetCore.Mvc;
 using Swashbuckle.AspNetCore.Annotations;
 

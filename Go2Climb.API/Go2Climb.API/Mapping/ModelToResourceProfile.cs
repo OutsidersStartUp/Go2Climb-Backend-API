@@ -5,6 +5,7 @@ using Go2Climb.API.Domain.Models;
 using Go2Climb.API.Domain.Services.Communication;
 using Go2Climb.API.Resources;
 using Go2Climb.API.Security.Domain.Services.Communication;
+using Go2Climb.API.Services.Resources;
 
 namespace Go2Climb.API.Mapping
 {

@@ -4,8 +4,8 @@
 	Background:
 		Given the Endpoint https://localhost:5001/api/v1/agencyreviews is available
 		And A Agency already exists
-		  |Id |Name      |Email            |PhoneNumber |Description |Location |Ruc      |Photo |Score |
-		  |1  |Climbling |Climbling@go.com |987654321   |funny       |calle 2  |12345678 |none  |5     |
+		  | Id | Name      | Email            | Password | PhoneNumber | Description | Location | Ruc      | Photo | Score |
+		  | 1  | Climbling | Climbling@go.com | 123      | 987654321   | funny       | calle 2  | 12345678 | none  | 5     |
 
 		And A Customer already hire a service
 		  | Id | Name | LastName | Email            | Password    | PhoneNumber |

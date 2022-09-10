@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using Go2Climb.API;
 using Go2Climb.API.Agencies.Resources;
 using Go2Climb.API.Resources;
+using Go2Climb.API.Services.Resources;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Newtonsoft.Json;
 using SpecFlow.Internal.Json;
